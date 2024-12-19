@@ -1,0 +1,28 @@
+imgur 
+dodoccc
+dodo920118
+
+imgur 
+Client ID
+4ba52708446e72b
+Client secret
+b3e760d72946aaa64ed71d4bfdfd7a8c33ddcf9f
+
+Linebot
+access token = G6a0W08GOKs4x9V+eECvB+FCqpsiRFWCE6pRZNLu9CW+z1npN4VnG2/RtJnYdnOvuBnTGzIeAiqgwwVHszzjdB4Tpm38dOjtYwHph3FbK+W+T7Usnrb7jCXOp9waQ56xA4rv7AVaNIijmMSq2ZtVEwdB04t89/1O/w1cDnyilFU=
+secret = b5f7b258feb5e4323208308cd00a1780
+
+Ngrok
+Authtoken
+2WiA6gkckFGUNfjUFxs9HWrF06b_7DfjNzav8qdqbfjVYN657
+
+開ngrok 指令
+ngrok http 127.0.0.1:5000
+把forwarding後那串貼到linebot developer的webhook URL
+(確認伺服器已開啟後) 驗證 出現success即可
+
+linebot developer
+https://developers.line.biz/console/channel/2001142986/roles
+
+設定linebot介面與管理
+https://manager.line.biz/account/@977joyny
