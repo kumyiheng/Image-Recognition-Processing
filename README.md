@@ -16,7 +16,7 @@
 - **自動化清理**：內建腳本可定期清理暫存的影像檔案。
 - **雲端整合**：處理完後的影像會自動上傳至 Imgur，並回傳連結給使用者。
 
-## 技術棧 (Tech Stack)
+## Tech Stack
 - **語言**：Python 3.10
 - **框架**：Flask (Webhook Server)
 - **API 整合**：Line Bot SDK, Imgur API
